@@ -1,6 +1,6 @@
 # SolidiPy
 
-![](/home/kevin/DATA/Code/Python/solidipy/assets/getStarted_03.jpg)
+![](/assets/getStarted_03.jpg)
 
 This is a simple Python project to help export `Minecraft-pi` builds for 3D printing. 
 
