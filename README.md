@@ -1,5 +1,9 @@
 # SolidiPy
 
+Please cite this work  using: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10552104.svg)](https://doi.org/10.5281/zenodo.10552104)
+
+
+
 ![](/assets/getStarted_03.jpg)
 
 This is a simple Python project to help export `Minecraft-pi` builds for 3D printing. 
